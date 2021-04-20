@@ -1,8 +1,6 @@
 #include<stdio.h>
 
 int main(){
- printf("hello");
- printf("안녕");
- printf("tq");
+ printf("안녕기욱쓰?");
  return 0;
 }
